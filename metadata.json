@@ -1,0 +1,5 @@
+{
+  "name": "SwingAnimation 可视化",
+  "description": "交互式解析 iOS Widget 如何通过嵌套旋转实现平移动画。",
+  "requestFramePermissions": []
+}
